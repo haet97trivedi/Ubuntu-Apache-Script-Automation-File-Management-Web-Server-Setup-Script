@@ -1,0 +1,1 @@
+ls /dev/t* /etc/t* /bin/t* > alltest.txt

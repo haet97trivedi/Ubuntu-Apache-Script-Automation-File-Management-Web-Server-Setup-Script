@@ -1,0 +1,29 @@
+script
+OUTPUTFILE
+myname.txt
+last.txt
+fileA
+fileB
+fileC
+another
+helloworld
+scripts2
+cleanup.txt
+scripts
+name1
+multiple
+mytest
+names
+create_file
+script3
+myfile
+extra
+alltest.txt
+ALLDOC (1).txt
+SOLARI~1.JPE
+STRCNG~1.ZPE
+Presentation.pptx
+Student progression awards and resits 19-20.pptx
+MICORS.GHF
+library_giphy_image3.gim
+development of computational thinking.pdf

@@ -1,0 +1,9 @@
+
+touch ada1.txt
+echo "Hi Mireilla" > ada1.txt
+touch ada2.txt
+echo " I am very well thanks a lot" > ada2.txt
+mkdir mydir5
+cat ada1.txt ada2.txt > /home/mireilla/scripts/mydir5/ada3.txt
+pwd
+

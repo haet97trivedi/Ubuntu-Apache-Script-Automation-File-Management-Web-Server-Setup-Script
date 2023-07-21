@@ -1,0 +1,6 @@
+touch file1.txt file2.txt
+echo !!!Hellow world Mireilla!!! > file1.txt
+echo !!!Goodbye Mireilla!!! >file2.txt
+mkdir mydir4
+cat file1.txt file2.txt > output.txt
+mv output.txt mydir4

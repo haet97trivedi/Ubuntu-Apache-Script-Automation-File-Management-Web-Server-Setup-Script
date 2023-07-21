@@ -1,0 +1,2 @@
+echo file name is $1
+echo the file contains: $2 $3 $4 $5 

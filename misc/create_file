@@ -1,0 +1,7 @@
+echo Enter a FILENAME
+read FILENAME
+echo Enter CONTENTS
+read CONTENTS
+echo the contents of this $FILENAME are
+echo $CONTENTS
+

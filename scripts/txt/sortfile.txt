@@ -1,0 +1,5 @@
+-rw-rw-r-- 1 haet_trivedi haet_trivedi    0 Oct 25 18:49 myname.txt
+-rw-rw-r-- 1 haet_trivedi haet_trivedi    0 Oct 25 18:49 last.txt
+-rw-rw-r-- 1 haet_trivedi haet_trivedi   46 Oct 25 18:49 cleanup.txt
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 1292 Oct 25 18:49 alltest.txt
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 1292 Oct 25 18:49 ALLDOC (1).txt

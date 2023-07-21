@@ -1,0 +1,60 @@
+-rw-rw-r-- 1 haet_trivedi haet_trivedi      0 Oct 25 18:49 script
+-rw-rw-r-- 1 haet_trivedi haet_trivedi      0 Oct 25 18:49 OUTPUTFILE
+-rw-rw-r-- 1 haet_trivedi haet_trivedi      9 Oct 25 18:49 fileA
+-rw-rw-r-- 1 haet_trivedi haet_trivedi     12 Oct 25 18:49 fileB
+-rw-rw-r-- 1 haet_trivedi haet_trivedi     21 Oct 25 18:49 fileC
+-rw-rw-r-- 1 haet_trivedi haet_trivedi     27 Oct 25 18:49 another
+-rw-rw-r-- 1 haet_trivedi haet_trivedi     28 Oct 25 18:49 helloworld
+-rw-rw-r-- 1 haet_trivedi haet_trivedi     41 Oct 25 18:49 scripts2
+-rw-rw-r-- 1 haet_trivedi haet_trivedi     47 Oct 25 18:49 scripts
+-rw-rw-r-- 1 haet_trivedi haet_trivedi     58 Oct 25 18:49 name1
+-rw-rw-r-- 1 haet_trivedi haet_trivedi     64 Oct 25 18:49 multiple
+-rw-rw-r-- 1 haet_trivedi haet_trivedi     65 Oct 25 18:49 mytest
+-rw-rw-r-- 1 haet_trivedi haet_trivedi     98 Oct 25 18:49 names
+-rw-rw-r-- 1 haet_trivedi haet_trivedi    126 Oct 25 18:49 create_file
+-rw-rw-r-- 1 haet_trivedi haet_trivedi    181 Oct 25 18:49 script3
+-rw-rw-r-- 1 haet_trivedi haet_trivedi    189 Oct 25 18:49 myfile
+-rw-rw-r-- 1 haet_trivedi haet_trivedi    243 Oct 25 18:49 extra
+-rw-rw-r-- 1 haet_trivedi haet_trivedi   3647 Oct 25 18:49 all_giphy_image7.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi   3647 Oct 25 18:49 ALLDOC (7).gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi   5543 Oct 25 18:49 why_giphy_image1.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi   5761 Oct 25 18:49 SOLARI~1.JPE
+-rw-rw-r-- 1 haet_trivedi haet_trivedi   5826 Oct 25 18:49 www_image10.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi   5848 Oct 25 18:49 ALLDOC (1).gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi   5848 Oct 25 18:49 a_giphy_image.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi   6316 Oct 25 18:49 ALLDOC (5).gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi   6316 Oct 25 18:49 a_giphy_image10.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi  11896 Oct 25 18:49 STRCNG~1.ZPE
+-rw-rw-r-- 1 haet_trivedi haet_trivedi  21204 Oct 25 18:49 ALLDOC (2).gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi  21204 Oct 25 18:49 a_giphy_image3.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi  25004 Oct 25 18:49 ALLDOC (4).gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi  25004 Oct 25 18:49 a_giphy_image8.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi  28829 Oct 25 18:49 bad_giphy_image5.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi  29716 Oct 25 18:49 Presentation.pptx
+-rw-rw-r-- 1 haet_trivedi haet_trivedi  44680 Oct 25 18:49 Student progression awards and resits 19-20.pptx
+-rw-rw-r-- 1 haet_trivedi haet_trivedi  52031 Oct 25 18:49 zoo_giphy_image6.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi  58153 Oct 25 18:49 renamed_giphy_image9.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi  81303 Oct 25 18:49 RAY_IM~1.GIF
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 122777 Oct 25 18:49 x_image4.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 129491 Oct 25 18:49 ALLDOC (6).gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 129491 Oct 25 18:49 a_image.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 143471 Oct 25 18:49 MICORS.GHF
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 170591 Oct 25 18:49 library_giphy_image3.gim
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 241462 Oct 25 18:49 c_image8.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 288481 Oct 25 18:49 ygiphy8.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 288481 Oct 25 18:49 x_image9.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 288481 Oct 25 18:49 x_image1.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 288481 Oct 25 18:49 xdgiphy4.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 288481 Oct 25 18:49 merry.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 288481 Oct 25 18:49 internet.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 288481 Oct 25 18:49 graphics.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 288481 Oct 25 18:49 good_giphy_image2.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 288481 Oct 25 18:49 giphy2.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 288481 Oct 25 18:49 flower.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 288481 Oct 25 18:49 egiphy5.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 288481 Oct 25 18:49 car.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 288481 Oct 25 18:49 b_image5.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 288481 Oct 25 18:49 ALLDOC (3).gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 288481 Oct 25 18:49 a_giphy_image4.gif
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 298123 Oct 25 18:49 development of computational thinking.pdf
+-rw-rw-r-- 1 haet_trivedi haet_trivedi 768908 Oct 25 18:49 bbc.gif

@@ -1,0 +1,5 @@
+rm f*
+cd mydir4
+rm output.txt
+cd
+rm -9 *mydir*

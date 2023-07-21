@@ -1,0 +1,4 @@
+i=0
+while ((i++ < 10)); do
+	cp x_image.gif "x_image$i.gif"
+done

@@ -1,0 +1,3 @@
+cp fileA mydir
+echo $1 $2
+
