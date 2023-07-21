@@ -1,0 +1,173 @@
+....These are the jpg files....
+
+zoo_image24.jpeg
+xkanother_image32.jpeg
+wax_image9.jpeg
+tronelinux34.jpeg
+text_image27.jpeg
+test_image18.jpeg
+red_hat.jpeg
+poanother_image34.jpeg
+my_image.jpeg
+my_image4.jpeg
+my_image2.jpeg
+my_image17.jpeg
+my_image16.jpeg
+my_image13.jpeg
+my_image12.jpeg
+mint.jpeg
+linux.jpeg
+linux_image5.jpeg
+linux35.jpeg
+linux33.jpeg
+linux31.jpeg
+linux26.jpeg
+linux23.jpeg
+just_anything.jpeg
+intnother_image22.jpeg
+here_image23.jpeg
+hellu_image15.jpeg
+goole_image3.jpeg
+gamey_image11.jpeg
+diff_image1.jpeg
+cake_image14.jpeg
+blanother_image33.jpeg
+beetroot.jpeg
+beauty_image20.jpeg
+attempt1.jpeg
+atrnother_image26.jpeg
+another_image.jpeg
+another_image35.jpeg
+another_image31.jpeg
+another_image29.jpeg
+another_image28.jpeg
+another_image25.jpeg
+all_image7.jpeg
+ALLDOC (2).jpeg
+ALLDOC (1).jpeg
+alinux28.jpeg
+
+
+....These are the docx files....
+
+zen.docx
+ytest.docx
+yet_another_test.docx
+xytest1.docx
+xeytest4.docx
+WHATTE1.DOC
+what_other_test26.docx
+thisanother_test23.docx
+test7.docx
+test5.docx
+test20.docx
+test19.docx
+sirene.docx
+plumber.docx
+panother_test30.docx
+not_another_test22.docx
+none.docx
+nano_test33.docx
+mytest9.docx
+mytest7.docx
+mytest5.docx
+mytest15.docx
+mytest14.docx
+mytest12.docx
+logic_gates_test34.docx
+linux123.docx
+lindat17.docx
+last_another_test24.docx
+joy_in_the_world.docx
+hitest3.docx
+hat.docx
+etest16.docx
+elements.docx
+eanother_test29.docx
+day123.docx
+car_test32.docx
+btest14.docx
+binary.docx
+banother_test28.docx
+axtest18.docx
+axr.docx
+atest11.docx
+another_test35.docx
+another_test25.docx
+ani17.docx
+ALLDOC (1).docx
+
+
+....These are the gif files....
+
+zoo_giphy_image6.gif
+ygiphy8.gif
+x_image9.gif
+x_image4.gif
+x_image1.gif
+xdgiphy4.gif
+www_image10.gif
+why_giphy_image1.gif
+renamed_giphy_image9.gif
+RAY_IM~1.GIF
+merry.gif
+internet.gif
+graphics.gif
+good_giphy_image2.gif
+giphy2.gif
+flower.gif
+egiphy5.gif
+c_image8.gif
+car.gif
+b_image5.gif
+bbc.gif
+bad_giphy_image5.gif
+all_giphy_image7.gif
+ALLDOC (7).gif
+ALLDOC (6).gif
+ALLDOC (5).gif
+ALLDOC (4).gif
+ALLDOC (3).gif
+ALLDOC (2).gif
+ALLDOC (1).gif
+a_image.gif
+a_giphy_image.gif
+a_giphy_image8.gif
+a_giphy_image4.gif
+a_giphy_image3.gif
+a_giphy_image10.gif
+
+
+....These are the misc files....
+
+Student progression awards and resits 19-20.pptx
+STRCNG~1.ZPE
+SOLARI~1.JPE
+scripts2
+scripts
+script3
+script
+Presentation.pptx
+OUTPUTFILE
+names
+name1
+mytest
+myname.txt
+myfile
+multiple
+MICORS.GHF
+library_giphy_image3.gim
+last.txt
+helloworld
+fileC
+fileB
+fileA
+extra
+development of computational thinking.pdf
+create_file
+cleanup.txt
+another
+alltest.txt
+ALLDOC (1).txt
+
+
